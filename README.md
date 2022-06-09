@@ -15,8 +15,6 @@ Entregável da GS 1 FIAP de `Advanced Programming & Mobile Dev`, professor:
 | [<img src="https://avatars.githubusercontent.com/u/5585727" width=115><br><sub>João Carlos Lima</sub>](https://github.com/joaocarloslima) | 
 | :---: 
 
-:warning: Removemos as credenciais do banco de dados no arquivo `persistence.xml`
-
 ## Sobre :book:
 <p align="justify">
     O projeto consiste em criar uma interface gráfica que gerencia os abastecimentos de carros elétricos nos postos, com um sistema de cadastro e consulta de dados em um banco de dados sobre os postos existentes no país, utilizando uma API do google maps mostrando a localização do ponto de recarga. 
@@ -34,16 +32,22 @@ Entregável da GS 1 FIAP de `Advanced Programming & Mobile Dev`, professor:
     <a href="https://www.eclipse.org/" target="_blank">
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Android Studio">
     </a>
-    <img src="http://img.shields.io/static/v1?label=STATUS&message=WORKING&color=orange&style=for-the-badge" alt="Status">
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=brightgreenn&style=for-the-badge" alt="Status">
 </p>
 
 ## Recursos :wrench:
-- [ ] Interface Gráfica
-- [ ] Sistema de Cadastro
-- [ ] Sistema de Consulta
-- [ ] API Google Maps
+- [X] Interface Gráfica
+- [X] Sistema de Cadastro
+- [X] Sistema de Consulta
+- [X] API Google Maps
 
 ## Integrantes 3ECA :handshake:
 - Leonardo Cesar de Mendonça - 84689
 - João Rafael Galhardo Rui - 82114
 - Rafael Perez Masson - 84380
+
+<p align="center">
+    <a href="./LICENSE" target="_blank">
+        <img src="https://img.shields.io/github/license/leolcm/apmd-gs1?style=for-the-badge" alt="MIT LICENSE">
+    </a>
+</p>

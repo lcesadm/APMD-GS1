@@ -1,16 +1,17 @@
 <h1 align="center">APMD-GS1</h1>
 <p align="center">
-    <img src="GS.png" alt="Electric Car" width="300">
+    <img src="GS.png" alt="Electric Car" width="300"><br>
+    <img src="https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
-### Tópicos
-:small_blue_diamond: [Global Solution](#global-solution-earth_americas)  
-:small_blue_diamond: [Sobre](#sobre-book)  
-:small_blue_diamond: [Recursos](#recursos-wrench)  
-:small_blue_diamond: [Integrantes 3ECA](#integrantes-3eca-handshake)  
+### Tópicos :large_blue_diamond:
+**:small_blue_diamond: [Global Solution :earth_americas:](#global-solution-earth_americas)**  
+**:small_blue_diamond: [Sobre :book:](#sobre-book)**  
+**:small_blue_diamond: [Recursos :wrench:](#recursos-wrench)**  
+**:small_blue_diamond: [Integrantes 3ECA :handshake:](#integrantes-3eca-handshake)**
 
 ## GLOBAL SOLUTION :earth_americas:
-Entregável da GS 1 FIAP de `Advanced Programming & Mobile Dev`, professor:
+Entregável da GS 1 FIAP de *Advanced Programming & Mobile Dev*, professor:
 
 | [<img src="https://avatars.githubusercontent.com/u/5585727" width=115><br><sub>João Carlos Lima</sub>](https://github.com/joaocarloslima) | 
 | :---: 
@@ -32,7 +33,6 @@ Entregável da GS 1 FIAP de `Advanced Programming & Mobile Dev`, professor:
     <a href="https://www.eclipse.org/" target="_blank">
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Android Studio">
     </a>
-    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=brightgreenn&style=for-the-badge" alt="Status">
 </p>
 
 ## Recursos :wrench:

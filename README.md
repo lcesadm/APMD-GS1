@@ -48,6 +48,6 @@ Entregável da GS 1 FIAP de *Advanced Programming & Mobile Dev*, professor:
 
 <p align="center">
     <a href="./LICENSE" target="_blank">
-        <img src="https://img.shields.io/github/license/leolcm/apmd-gs1?style=for-the-badge" alt="MIT LICENSE">
+        <img src="https://img.shields.io/github/license/lcesadm/apmd-gs1?style=for-the-badge" alt="MIT LICENSE">
     </a>
 </p>
